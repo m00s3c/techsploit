@@ -80,7 +80,3 @@ Use responsibly and only against systems you have permission to test.
 1. Fork the repository
 2. Create feature branch
 3. Submit pull request
-
-## License
-
-MIT License
