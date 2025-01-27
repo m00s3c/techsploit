@@ -388,7 +388,7 @@ def print_banner():
    ██║   ███████╗╚██████╗██║  ██║███████║██║     ███████╗╚██████╔╝██║   ██║
    ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝
                      Web Application Scanner v1.0
-                https://techsploit.com | https://moose.sh
+               https://techsploit.com | https://moose.sh
     """
     print(banner)
 
