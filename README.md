@@ -1,6 +1,6 @@
 # Techsploit
 
-Advanced web application scanner for technology detection, security analysis, and vulnerability assessment.
+Web application scanner for technology detection, security analysis, and vulnerability assessment.
 
 ## Features
 
